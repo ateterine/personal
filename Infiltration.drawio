@@ -54,7 +54,7 @@
           <mxGeometry x="50" y="530" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C9ZxbpKG9fnVlgyEMlzu-9" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;b&gt;Phase 7 - Transition &amp;amp; Handover&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EA00;strokeColor=#d6b656;fontColor=#4F0EB2;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
-          <mxGeometry x="390" y="545" width="335" height="50" as="geometry" />
+          <mxGeometry x="390" y="540" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
