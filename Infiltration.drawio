@@ -8,52 +8,52 @@
           <mxGeometry x="10" y="10" width="831.03" height="830" as="geometry" />
         </mxCell>
         <mxCell id="C9ZxbpKG9fnVlgyEMlzu-1" value="Untitled Layer" parent="0" />
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-19" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.43333333333333335;arrowSize=0.43333333333333335;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-19" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.43333333333333335;arrowSize=0.43333333333333335;fillColor=#4F0EB2;fontColor=#ffffff;strokeColor=#3B0D82;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="390" y="575" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-17" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.07142857142857142;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-17" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.07142857142857142;fillColor=#4F0EB2;fontColor=#ffffff;strokeColor=#3B0D82;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="220" y="100" width="60" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-13" value="The project team provides guidance, training, and resources to key workforce representatives, emphasizing the development of effective operational frameworks." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;spacing=20;spacingTop=1;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-13" value="The project team provides guidance, training, and resources to key workforce representatives, emphasizing the development of effective operational frameworks." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#4F0EB2;strokeColor=#3B0D82;spacing=20;spacingTop=1;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="410" y="340" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-12" value="The project team integrates into the operational environment, establishes communication with its leadership, and engages with key workforce stakeholders." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;spacing=20;spacingTop=1;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-12" value="The project team integrates into the operational environment, establishes communication with its leadership, and engages with key workforce stakeholders." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#4F0EB2;strokeColor=#3B0D82;spacing=20;spacingTop=1;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="410" y="250" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-11" value="The consulting agency collaborates with aligned leadership or change advocates within the organization to identify and provide targeted support for strategic initiatives." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;spacing=20;spacingTop=1;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-11" value="The consulting agency collaborates with aligned leadership or change advocates within the organization to identify and provide targeted support for strategic initiatives." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#4F0EB2;strokeColor=#3B0D82;spacing=20;spacingTop=1;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="410" y="160" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-10" value="Change advocates and external stakeholders implement strategic communication initiatives to align the workforce with a shared vision, fostering collaboration and preparing them to embrace organizational transformation." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;spacing=20;spacingTop=1;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-10" value="Change advocates and external stakeholders implement strategic communication initiatives to align the workforce with a shared vision, fostering collaboration and preparing them to embrace organizational transformation." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#4F0EB2;strokeColor=#3B0D82;spacing=20;spacingTop=1;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="410" y="60" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-14" value="The project team supports key workforce representatives in scaling their influence and effectiveness within the organization. While addressing immediate challenges as needed, the primary focus remains on long-term development." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;spacing=20;spacingTop=1;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-14" value="The project team supports key workforce representatives in scaling their influence and effectiveness within the organization. While addressing immediate challenges as needed, the primary focus remains on long-term development." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#4F0EB2;strokeColor=#3B0D82;spacing=20;spacingTop=1;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="410" y="430" width="360" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-15" value="The extended project team addresses operational challenges and drives initiatives until integration with the broader organizational structure or resolution of key issues." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;spacing=20;spacingTop=1;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-15" value="The extended project team addresses operational challenges and drives initiatives until integration with the broader organizational structure or resolution of key issues." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#4F0EB2;strokeColor=#3B0D82;spacing=20;spacingTop=1;fontColor=#FFFFFF;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="100" y="640" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-16" value="The extended project team transitions to organizational oversight, either integrating into standard operations or concluding its role as the project wraps up." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;spacing=20;spacingTop=1;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
-          <mxGeometry x="436.25" y="630" width="322.5" height="80" as="geometry" />
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-16" value="The extended project team transitions to organizational oversight, either integrating into standard operations or concluding its role as the project wraps up." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#4F0EB2;strokeColor=#3B0D82;spacing=20;spacingTop=1;fontColor=#FFFFFF;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+          <mxGeometry x="436.25" y="630" width="322.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-3" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Phase 1 - Strategic Alignment&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-3" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;b&gt;Phase 1 - Strategic Alignment&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EA00;strokeColor=#d6b656;fontColor=#4F0EB2;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="80" y="70" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-4" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Phase 2 - Stakeholder Engagement&lt;/b&gt;&lt;span class=&quot;s1&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-4" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;b&gt;Phase 2 - Stakeholder Engagement&lt;/b&gt;&lt;span class=&quot;s1&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EA00;strokeColor=#d6b656;fontColor=#4F0EB2;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="85" y="170" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-5" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Phase 3 - Integration &amp;amp; Assessment&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-5" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;b&gt;Phase 3 - Integration &amp;amp; Assessment&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EA00;strokeColor=#d6b656;fontColor=#4F0EB2;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="80" y="260" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-6" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Phase 4 - Team Structuring&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-6" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;b&gt;Phase 4 - Team Structuring&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EA00;strokeColor=#d6b656;fontColor=#4F0EB2;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="85" y="350" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-7" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Phase 5 - Capability Expansion&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-7" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;b&gt;Phase 5 - Capability Expansion&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EA00;strokeColor=#d6b656;fontColor=#4F0EB2;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="85" y="450" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-8" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Phase 6 - Execution &amp;amp; Optimization&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-8" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;b&gt;Phase 6 - Execution &amp;amp; Optimization&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F2EA00;strokeColor=#d6b656;fontColor=#4F0EB2;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="90" y="570" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-9" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Phase 7 - Transition &amp;amp; Handover&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
+        <mxCell id="C9ZxbpKG9fnVlgyEMlzu-9" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;b&gt;Phase 7 - Transition &amp;amp; Handover&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EA00;strokeColor=#d6b656;fontColor=#4F0EB2;" vertex="1" parent="C9ZxbpKG9fnVlgyEMlzu-1">
           <mxGeometry x="430" y="585" width="335" height="50" as="geometry" />
         </mxCell>
       </root>
